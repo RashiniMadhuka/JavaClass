@@ -1,9 +1,7 @@
 package com.madhuka.JavaClass;
-
 import java.util.Scanner;
 
 public class Q_two {
-
 	private static Scanner num;
 
 	public static void main(String[] args) {
@@ -15,4 +13,6 @@ public class Q_two {
 		System.out.println("Your Number Is : " + input);
 
 	}
+
+	
 }
